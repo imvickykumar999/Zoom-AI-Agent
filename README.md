@@ -1,5 +1,7 @@
 # `Zoom Meeting` : [`Deployed`](https://zoomeet.pythonanywhere.com/)
 
+<img width="1535" height="1023" alt="image" src="https://github.com/user-attachments/assets/e2f74cc5-d337-4668-88ba-203b1073baa3" />
+
 ```bash
 # export your keys from https://marketplace.zoom.us/user/build
 export ZOOM_CLIENT_ID="your_actual_zoom_client_id"
