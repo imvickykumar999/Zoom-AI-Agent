@@ -2,3 +2,4 @@ zoom_token.json
 backup.zip
 *.pyc
 .env
+backup/UpdateToken.py
