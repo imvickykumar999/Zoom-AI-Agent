@@ -246,7 +246,7 @@ def home():
 # ----------------------------------------------------------------
 if __name__ == "__main__":
     debug = os.getenv("FLASK_DEBUG", "False").lower() == "true"
-    port = int(os.getenv("PORT", 5000))
+    port = int(os.getenv("PORT", 8000))
     print(f"Server running at http://localhost:{port}")
     print(f"   • API: POST /api/schedule/")
     print(f"   • OAuth: /oauth/login")

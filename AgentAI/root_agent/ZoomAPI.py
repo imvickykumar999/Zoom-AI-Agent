@@ -70,7 +70,7 @@ def schedule_meeting(
         }
 
     # --- 4. Build payload for your Flask API ---
-    url = "http://localhost:5000/api/schedule/"
+    url = "http://localhost:8000/api/schedule/"
     payload = {
         "topic": topic,
         "start_time": utc_start,
